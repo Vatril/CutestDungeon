@@ -1,6 +1,6 @@
 # CutestDungeon
 
-This is a game I made for my job trainig.
+This is a game I made for my job trainig some time ago.
 I am uploading it to GitHub just for archiving purposes.
 
 ## This contains very bad code
