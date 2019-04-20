@@ -10,5 +10,5 @@ Just uploading it, because I dont want to loose it, and its funny to laugh at my
 
 And yes, there is a lot of that in here
 
-#The playable game is in the game folder
+# The playable game is in the game folder
 there is a complied Windows, Mac and Linux version
