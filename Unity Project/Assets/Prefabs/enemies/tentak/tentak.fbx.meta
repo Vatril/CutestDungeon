@@ -1,0 +1,195 @@
+fileFormatVersion: 2
+guid: 94355bf27ac5d4e4c9bdc7cd692c1295
+timeCreated: 1521999945
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Kugel_1
+    100002: Kugel_1_2
+    100004: Sweep
+    100006: Sweep_1
+    100008: Sweep_1_2
+    100010: Sweep_2
+    100012: Sweep_2_2
+    100014: Sweep_2_3
+    100016: Sweep_3
+    100018: Sweep_3_2
+    100020: Sweep_4
+    100022: Sweep_4_2
+    100024: Sweep_5
+    100026: Sweep_5_2
+    100028: //RootNode
+    400000: Kugel_1
+    400002: Kugel_1_2
+    400004: Sweep
+    400006: Sweep_1
+    400008: Sweep_1_2
+    400010: Sweep_2
+    400012: Sweep_2_2
+    400014: Sweep_2_3
+    400016: Sweep_3
+    400018: Sweep_3_2
+    400020: Sweep_4
+    400022: Sweep_4_2
+    400024: Sweep_5
+    400026: Sweep_5_2
+    400028: //RootNode
+    2100000: Mat
+    2100002: Mat.3
+    2100004: Mat.4
+    2100006: Mat.2
+    2100008: Mat.1
+    2300000: Kugel_1
+    2300002: Kugel_1_2
+    2300004: Sweep
+    2300006: Sweep_1
+    2300008: Sweep_1_2
+    2300010: Sweep_2
+    2300012: Sweep_2_2
+    2300014: Sweep_2_3
+    2300016: Sweep_3
+    2300018: Sweep_3_2
+    2300020: Sweep_4
+    2300022: Sweep_4_2
+    2300024: Sweep_5
+    2300026: Sweep_5_2
+    2300028: //RootNode
+    3300000: Kugel_1
+    3300002: Kugel_1_2
+    3300004: Sweep
+    3300006: Sweep_1
+    3300008: Sweep_1_2
+    3300010: Sweep_2
+    3300012: Sweep_2_2
+    3300014: Sweep_2_3
+    3300016: Sweep_3
+    3300018: Sweep_3_2
+    3300020: Sweep_4
+    3300022: Sweep_4_2
+    3300024: Sweep_5
+    3300026: Sweep_5_2
+    3300028: //RootNode
+    4300000: Kugel
+    4300002: Kugel_1
+    4300004: Kugel_1_2
+    4300006: Sweep_5
+    4300008: Sweep_4
+    4300010: Sweep_3
+    4300012: Sweep_2
+    4300014: Sweep
+    4300016: Sweep_1
+    4300018: Sweep_5_2
+    4300020: Sweep_4_2
+    4300022: Sweep_3_2
+    4300024: Sweep_2_2
+    4300026: Sweep_2_3
+    4300028: Sweep_1_2
+    7400000: Cinema_4D_Basis
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Cinema_4D_Basis
+      takeName: Cinema_4D_Basis
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

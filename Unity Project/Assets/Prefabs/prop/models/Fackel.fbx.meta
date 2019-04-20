@@ -1,0 +1,264 @@
+fileFormatVersion: 2
+guid: aae3328cc8a7b42778bd19fddb331c78
+timeCreated: 1521041588
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Kugel
+    100004: Kugel_1
+    100006: Kugel_10
+    100008: Kugel_10_2
+    100010: Kugel_11
+    100012: Kugel_11_2
+    100014: Kugel_12
+    100016: Kugel_12_2
+    100018: Kugel_13
+    100020: Kugel_13_2
+    100022: Kugel_1_2
+    100024: Kugel_2
+    100026: Kugel_2_2
+    100028: Kugel_2_3
+    100030: Kugel_3
+    100032: Kugel_3_2
+    100034: Kugel_4
+    100036: Kugel_4_2
+    100038: Kugel_5
+    100040: Kugel_5_2
+    100042: Kugel_6
+    100044: Kugel_6_2
+    100046: Kugel_7
+    100048: Kugel_7_2
+    100050: Kugel_8
+    100052: Kugel_8_2
+    100054: Kugel_9
+    100056: Kugel_9_2
+    400000: //RootNode
+    400002: Kugel
+    400004: Kugel_1
+    400006: Kugel_10
+    400008: Kugel_10_2
+    400010: Kugel_11
+    400012: Kugel_11_2
+    400014: Kugel_12
+    400016: Kugel_12_2
+    400018: Kugel_13
+    400020: Kugel_13_2
+    400022: Kugel_1_2
+    400024: Kugel_2
+    400026: Kugel_2_2
+    400028: Kugel_2_3
+    400030: Kugel_3
+    400032: Kugel_3_2
+    400034: Kugel_4
+    400036: Kugel_4_2
+    400038: Kugel_5
+    400040: Kugel_5_2
+    400042: Kugel_6
+    400044: Kugel_6_2
+    400046: Kugel_7
+    400048: Kugel_7_2
+    400050: Kugel_8
+    400052: Kugel_8_2
+    400054: Kugel_9
+    400056: Kugel_9_2
+    2100000: Mat
+    2100002: Mat.1
+    2100004: Mat.2
+    2100006: Mat.3
+    2300000: //RootNode
+    2300002: Kugel
+    2300004: Kugel_1
+    2300006: Kugel_10
+    2300008: Kugel_10_2
+    2300010: Kugel_11
+    2300012: Kugel_11_2
+    2300014: Kugel_12
+    2300016: Kugel_12_2
+    2300018: Kugel_13
+    2300020: Kugel_13_2
+    2300022: Kugel_1_2
+    2300024: Kugel_2
+    2300026: Kugel_2_2
+    2300028: Kugel_2_3
+    2300030: Kugel_3
+    2300032: Kugel_3_2
+    2300034: Kugel_4
+    2300036: Kugel_4_2
+    2300038: Kugel_5
+    2300040: Kugel_5_2
+    2300042: Kugel_6
+    2300044: Kugel_6_2
+    2300046: Kugel_7
+    2300048: Kugel_7_2
+    2300050: Kugel_8
+    2300052: Kugel_8_2
+    2300054: Kugel_9
+    2300056: Kugel_9_2
+    3300000: //RootNode
+    3300002: Kugel
+    3300004: Kugel_1
+    3300006: Kugel_10
+    3300008: Kugel_10_2
+    3300010: Kugel_11
+    3300012: Kugel_11_2
+    3300014: Kugel_12
+    3300016: Kugel_12_2
+    3300018: Kugel_13
+    3300020: Kugel_13_2
+    3300022: Kugel_1_2
+    3300024: Kugel_2
+    3300026: Kugel_2_2
+    3300028: Kugel_2_3
+    3300030: Kugel_3
+    3300032: Kugel_3_2
+    3300034: Kugel_4
+    3300036: Kugel_4_2
+    3300038: Kugel_5
+    3300040: Kugel_5_2
+    3300042: Kugel_6
+    3300044: Kugel_6_2
+    3300046: Kugel_7
+    3300048: Kugel_7_2
+    3300050: Kugel_8
+    3300052: Kugel_8_2
+    3300054: Kugel_9
+    3300056: Kugel_9_2
+    4300000: Zylinder
+    4300002: Kugel_13
+    4300004: Kugel_12
+    4300006: Kugel_11
+    4300008: Kugel_10
+    4300010: Kugel_9
+    4300012: Kugel_8
+    4300014: Kugel_7
+    4300016: Kugel_6
+    4300018: Kugel_5
+    4300020: Kugel_4
+    4300022: Kugel_3
+    4300024: Kugel_2
+    4300026: Kugel_1
+    4300028: Kugel
+    4300030: Kugel_13_2
+    4300032: Kugel_12_2
+    4300034: Kugel_11_2
+    4300036: Kugel_10_2
+    4300038: Kugel_9_2
+    4300040: Kugel_8_2
+    4300042: Kugel_7_2
+    4300044: Kugel_6_2
+    4300046: Kugel_5_2
+    4300048: Kugel_4_2
+    4300050: Kugel_3_2
+    4300052: Kugel_2_2
+    4300054: Kugel_1_2
+    4300056: Kugel_2_3
+    7400000: CINEMA_4D_Basis
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Basis
+      takeName: CINEMA_4D_Basis
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

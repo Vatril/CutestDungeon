@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 1fcf7a69679d1410282f44b7b64b0562
+timeCreated: 1518540837
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: fang
+    100002: leg1
+    100004: leg2
+    100006: leg3
+    100008: leg4
+    100010: rfang
+    100012: rleg1
+    100014: rleg2
+    100016: rleg3
+    100018: rleg4
+    100020: Sphere_1
+    100022: //RootNode
+    400000: fang
+    400002: leg1
+    400004: leg2
+    400006: leg3
+    400008: leg4
+    400010: rfang
+    400012: rleg1
+    400014: rleg2
+    400016: rleg3
+    400018: rleg4
+    400020: Sphere_1
+    400022: //RootNode
+    2100000: No Name
+    2300000: fang
+    2300002: leg1
+    2300004: leg2
+    2300006: leg3
+    2300008: leg4
+    2300010: rfang
+    2300012: rleg1
+    2300014: rleg2
+    2300016: rleg3
+    2300018: rleg4
+    2300020: Sphere_1
+    2300022: //RootNode
+    3300000: fang
+    3300002: leg1
+    3300004: leg2
+    3300006: leg3
+    3300008: leg4
+    3300010: rfang
+    3300012: rleg1
+    3300014: rleg2
+    3300016: rleg3
+    3300018: rleg4
+    3300020: Sphere_1
+    3300022: //RootNode
+    4300000: Sphere
+    4300002: rleg1
+    4300004: rleg3
+    4300006: rleg2
+    4300008: rleg4
+    4300010: leg2
+    4300012: leg4
+    4300014: leg3
+    4300016: leg1
+    4300018: Sphere_1
+    4300020: rfang
+    4300022: fang
+    7400000: CINEMA_4D_Main
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: CINEMA_4D_Main
+      takeName: CINEMA_4D_Main
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
